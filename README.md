@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sikha Gupta</h1>
 <h3 align="center">A .Net Full Stack developer from India with 8 years of experience in IT industry</h3>
-<img align="right" alt="Coding" width="400" src ="https://drive.google.com/file/d/1H6f1cb3s_7s7mbNOlO50qhyk7HCvRum6/view">
+<img align="center" alt="Coding" width="100%" height="100%" src ="https://github.com/Sikha-Kumari/Sikha-Kumari/blob/main/DJI_0107.JPG">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikha-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="sikha-kumari" /> </p>
 
 - 🔭 I’m currently working on **Shopping website with .Net core and Angular 18**
